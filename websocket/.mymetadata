@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="websocket"
+  id="myeclipse.1482995736134"
+  context-root="/websocket"
+  j2ee-spec="5.0"
+  archive="websocket.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
